@@ -13,7 +13,7 @@ This Selenium-based automation project automates product selection and checkout 
 ## Setup Instructions
 1. Clone the repository:
    ```sh
-   git clone https://github.com/MahHakim98/RestAssuredSelenium
+   git clone https://github.com/MahHakim98/RestAssuredSelenium.git
    ```
 2. Open the project in IntelliJ.
 3. Install dependencies using Maven:
